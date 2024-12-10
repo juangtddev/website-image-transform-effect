@@ -2,7 +2,7 @@
 
 ## Description
 
-In this tutorial, you will learn how to create a simple profile page with a header section using HTML, CSS, and JavaScript. The design includes images with beautiful hover effects. Additionally, we will implement a light/dark theme toggle feature, allowing users to switch between themes seamlessly.
+A simple profile page with a header section using HTML, CSS, and JavaScript. The design includes images with beautiful hover effects. Additionally, we will implement a light/dark theme toggle feature, allowing users to switch between themes seamlessly.
 
 ## Features
 
